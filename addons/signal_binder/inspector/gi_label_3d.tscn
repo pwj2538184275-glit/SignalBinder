@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dhfp2u4jsov4q"]
+
+[node name="GiLabel3D" type="Label3D" unique_id=1317690702]
+billboard = 1
+no_depth_test = true
+modulate = Color(0.96150005, 1, 0.23000002, 1)
